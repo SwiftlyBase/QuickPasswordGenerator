@@ -1,0 +1,2 @@
+# QuickPasswordGenerator
+Simple password generator 
