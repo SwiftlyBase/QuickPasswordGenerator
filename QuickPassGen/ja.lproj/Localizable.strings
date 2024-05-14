@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  QuickPassGen
+
+  Created by Mario Saputra on 2023/07/17.
+  
+*/
+
+"pass_length_str" = "パスワードの長さ: %d";
+"generate_password_str" = "パスワード生成";
+"copy_password_str" = "パスワードコピー";
+"symbols_str" = "記号";
+"numbers_only_str" = "数字のみ";
